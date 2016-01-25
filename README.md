@@ -1,11 +1,11 @@
 # hello-world-3
 
-hi how are you 
+ character 1 : hi how are you 
 
 im good thanks yourself 
 
-ah grand thanks hows the wife 
+character 1 : ah grand thanks hows the wife 
 
 you she is doing quite well settled in nicely with her new job 
 
-thats great tell her congradulations 
+character 1 : thats great tell her i said congradulations :D
